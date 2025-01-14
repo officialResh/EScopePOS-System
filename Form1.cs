@@ -20,7 +20,7 @@ namespace EScopePOS_System
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //RESHMAN CHANGED...
+            //RESHMAN CHANGED...,
         }
     }
 }
