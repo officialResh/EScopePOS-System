@@ -17,5 +17,10 @@ namespace EScopePOS_System
             InitializeComponent();
             //pathum ranahansa 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //RESHMAN CHANGED...
+        }
     }
 }
