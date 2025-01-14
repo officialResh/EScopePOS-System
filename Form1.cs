@@ -15,7 +15,7 @@ namespace EScopePOS_System
         public Form1()
         {
             InitializeComponent();
-            //pathum ranahansa 
+            //pathum ranahansa changed
         }
 
         private void Form1_Load(object sender, EventArgs e)
