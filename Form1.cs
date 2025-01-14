@@ -15,6 +15,7 @@ namespace EScopePOS_System
         public Form1()
         {
             InitializeComponent();
+            //pathum ranahansa 
         }
     }
 }
